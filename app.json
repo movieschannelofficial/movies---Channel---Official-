@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/movieschannelofficial/movies---Channel---Official-/blob/master/app.json",
-    "repository": "https://github.com/movieschannelofficial/movies---Channel---Official-/blob/master/app.json",
+    "repository": "https://github.com/movieschannelofficial/movies---Channel---Official-",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
