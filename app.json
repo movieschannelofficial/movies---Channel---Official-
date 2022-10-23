@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/malik7983/file-filter-bot",
-    "repository": "https://github.com/movieschannelofficial/movies---Channel---Official-",
+    "repository": "https://github.com/movieschannelofficial/movies---Channel---Official-/edit/master/app.json",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
