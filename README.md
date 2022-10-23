@@ -4,8 +4,8 @@
 <h1 align="center">
   <b>file-filter-bot</b>
 </h1>
-<a href="https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
+<a href="https://t.me/allnewmovieintime">
+  <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram" width="150">
 
 [![Stars](https://img.shields.io/github/stars/malik7983/file-filter-bot?style=flat-square&color=orange)](https://github.com/malik7983/file-filter-bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/malik7983/file-filter-bot?style=flat-square&color=blue)](https://github.com/malik7983/file-filter-bot/fork)
@@ -14,7 +14,7 @@
 ## Features
 
 - [x] Auto Filter
-- [x] Manual Filter
+
 - [x] IMDB
 - [x] Admin Commands
 - [x] Broadcast
